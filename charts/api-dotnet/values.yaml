@@ -1,0 +1,6 @@
+image:
+  repository: ghcr.io/seu-usuario/api-dotnet
+  tag: latest
+  pullPolicy: IfNotPresent
+service:
+  port: 80
